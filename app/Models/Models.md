@@ -1,0 +1,1 @@
+chuyển xử lý các logic thao tác với DB.
